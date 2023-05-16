@@ -1,4 +1,4 @@
-# cover-page-design
+# Cover-page-design
 ## AIM:
 To develop a website to display the cover page design of a book
 
@@ -127,6 +127,9 @@ Write HTML and CSS Code for designing book cover page and execute them.
 </html>
 
 ## Output:
+
+![Screenshot (43)](https://github.com/JAYAVARTHAN-P/Book-CoverPage-Design/assets/121369281/5fd11261-4f18-4d65-93cb-3ee5fd972b28)
+
 
 
 ## Result:
