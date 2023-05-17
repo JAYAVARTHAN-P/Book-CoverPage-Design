@@ -20,18 +20,18 @@ Write HTML and CSS Code for designing book cover page and execute them.
         .bookpage{
             width: 400px;
             height: 600px;
-            color:crimson;
+            color:rgb(212, 7, 41);
             margin-left: auto;
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(/static/images/images.jpeg);
+            background-image: url(/static/image/varthan.jpg);
             background-size: cover;
         }
             
 
         .insight{
-            color: blue;
+            color: rgb(17, 255, 0);
 
         }
 
@@ -43,7 +43,7 @@ Write HTML and CSS Code for designing book cover page and execute them.
         
             display: inline;
             position: relative;
-            color: purple;
+            color: rgb(222, 222, 222);
             top:190px;
             
             font-family:Georgia;
@@ -100,35 +100,48 @@ Write HTML and CSS Code for designing book cover page and execute them.
                 SEC INSIGHT
             </div>
             <div class="hrstyle">
-                <hr style="color: red;">
+                <hr style="color: rgb(255, 0, 30)">
             </div>
             <div class="booktitle">
-                <h1>Coding for beginners</h1></div>
+                <h1>Coolest Careers In CYBER SECURITY </h1></div>
             <div class="subtitle">
-                C,C++,Python and more.
+                1.THREAT HUNTER
+            </div>
+            <div class="subtitle">
+                2.RED TEAMER
+            </div>
+            <div class="subtitle">
+                3.DIGITAL FORENSIC ANALYST
+            </div>
+            <div class="subtitle">
+                4.MALWARE ANALYST
+            </div>
+            <div class="subtitle">
+                5.BLUE TERMER
             </div>
             <div class="mypic">
-                <img src="/static/images/me.jpeg" width="130" height="145" alt="">
+                <img src="/static/image/jaya.jpg" width="130" height="145" alt="">
             </div>
             <div class="id">
-                <hr style="color: indigo;">
+                <hr style="color: rgb(182, 160, 164);">
             </div>
             <div class="author">
-               <p><b>Abinav</b></p>
+               <p><b>JAYAVARTHAN P</b></p>
             </div>
             <div class="pub">
                 SEC
             </div>
             <div class="ed">
-                <b>Seventh Edition</b>
+                <b>First Edition</b>
             </div>
         </div>
-    </body>
+    </body>
 </html>
 
 ## Output:
 
-![Screenshot (43)](https://github.com/JAYAVARTHAN-P/Book-CoverPage-Design/assets/121369281/5fd11261-4f18-4d65-93cb-3ee5fd972b28)
+![Screenshot (46)](https://github.com/JAYAVARTHAN-P/Book-CoverPage-Design/assets/121369281/73d6e048-129a-47e1-8d51-a047f878cfa1)
+
 
 
 
