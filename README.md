@@ -25,7 +25,7 @@ Write HTML and CSS Code for designing book cover page and execute them.
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(/static/image/varthan.jpg);
+            background-image: url(/static/image/jv.jpg);
             background-size: cover;
         }
             
@@ -139,8 +139,9 @@ Write HTML and CSS Code for designing book cover page and execute them.
 </html>
 
 ## Output:
+![Screenshot (47)](https://github.com/JAYAVARTHAN-P/Book-CoverPage-Design/assets/121369281/7df55c09-5372-4f94-9156-19a834f5fd3a)
 
-![Screenshot (46)](https://github.com/JAYAVARTHAN-P/Book-CoverPage-Design/assets/121369281/73d6e048-129a-47e1-8d51-a047f878cfa1)
+
 
 
 
