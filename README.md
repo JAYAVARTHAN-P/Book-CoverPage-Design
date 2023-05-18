@@ -10,6 +10,7 @@ Step 2:
 Write HTML and CSS Code for designing book cover page and execute them.
 
 ## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -137,6 +138,7 @@ Write HTML and CSS Code for designing book cover page and execute them.
         </div>
     </body>
 </html>
+```
 
 ## Output:
 ![Screenshot (47)](https://github.com/JAYAVARTHAN-P/Book-CoverPage-Design/assets/121369281/7df55c09-5372-4f94-9156-19a834f5fd3a)
