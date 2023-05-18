@@ -141,7 +141,8 @@ Write HTML and CSS Code for designing book cover page and execute them.
 ```
 
 ## Output:
-![Screenshot (47)](https://github.com/JAYAVARTHAN-P/Book-CoverPage-Design/assets/121369281/7df55c09-5372-4f94-9156-19a834f5fd3a)
+
+![Screenshot (48)](https://github.com/JAYAVARTHAN-P/Book-CoverPage-Design/assets/121369281/7be83d89-733b-4e90-a669-0e66b9dc5ac6)
 
 
 
